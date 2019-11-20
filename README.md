@@ -1,2 +1,0 @@
-# DATA533_LAB2
-LAB2 
